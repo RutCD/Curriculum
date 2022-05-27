@@ -1,0 +1,13 @@
+
+.perfilcard{
+    width: 75;
+    box-shadow:white;
+     padding-top: 5;
+     padding: 5;
+     columns: 6;
+
+}
+
+body {
+    background-image: url("../static/backc.png");
+  }
