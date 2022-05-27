@@ -1,7 +1,7 @@
 const PRECACHE = 'precache-v2';
 const RUNTIME = 'runtime';
 const resources = [
-    './curriculum.html',
+    './index.html',
     '/js/app.js',  
     './css/styles.css',
    
